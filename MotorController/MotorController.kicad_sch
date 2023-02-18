@@ -1606,10 +1606,10 @@
       (reference "R10") (unit 1) (value "0") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/cd9205e1-9dd8-4849-8d2c-a52a0d3ed8fe/aa1a34bd-69af-4de4-b4e8-14765324a018"
-      (reference "R11") (unit 1) (value "16.5k") (footprint "Resistor_SMD:R_0402_1005Metric")
+      (reference "R11") (unit 1) (value "52.3k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/cd9205e1-9dd8-4849-8d2c-a52a0d3ed8fe/8a53668d-a306-46a6-b82a-13ca2ab43382"
-      (reference "R12") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
+      (reference "R12") (unit 1) (value "16.5k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/ccbfa78c-1c03-485b-8f13-ae56b26742e5/1478e9e5-36ea-4d4d-86a8-a4d7066bc86b"
       (reference "R13") (unit 1) (value "100") (footprint "Resistor_SMD:R_0402_1005Metric")
@@ -1701,8 +1701,8 @@
     (path "/cd9205e1-9dd8-4849-8d2c-a52a0d3ed8fe/7ea0e1bc-90b1-4e90-b4a0-ef3d94789683"
       (reference "U3") (unit 1) (value "INA280A3IDCKR") (footprint "Package_TO_SOT_SMD:SOT-353_SC-70-5")
     )
-    (path "/cd9205e1-9dd8-4849-8d2c-a52a0d3ed8fe/4e31385a-89d1-4213-9bc4-99567458b8a9"
-      (reference "U4") (unit 1) (value "LP38692MP-ADJ") (footprint "Package_TO_SOT_SMD:SOT-223-5")
+    (path "/cd9205e1-9dd8-4849-8d2c-a52a0d3ed8fe/c12fcee0-a140-4647-b82f-02ed41854322"
+      (reference "U4") (unit 1) (value "AP7366-W5-7") (footprint "Footprints:AP7366-W5-7")
     )
     (path "/e2e94001-d690-45ba-853c-9a43d892e2c8/7d01f806-1400-4257-bdeb-57e198212c3a"
       (reference "U5") (unit 1) (value "TPD2E2U06DCKR") (footprint "Package_TO_SOT_SMD:SOT-323_SC-70")
