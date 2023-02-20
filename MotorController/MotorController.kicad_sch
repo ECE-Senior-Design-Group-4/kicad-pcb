@@ -895,14 +895,6 @@
       (effects (font (size 1.27 1.27)) (justify right))
       (uuid caff2277-152b-424f-9c47-8d6e9e4f6fa8)
     )
-    (pin "~{FLASH_W}" input (at 185.42 88.9 180)
-      (effects (font (size 1.27 1.27)) (justify left))
-      (uuid 9b135452-c3ef-42da-9ec3-2ce2759e40ca)
-    )
-    (pin "~{FLASH_HOLD}" input (at 185.42 86.36 180)
-      (effects (font (size 1.27 1.27)) (justify left))
-      (uuid c8c7662d-ffc1-4cde-b5a7-6be2aeb267f9)
-    )
   )
 
   (sheet (at 172.72 121.92) (size 39.37 10.16) (fields_autoplaced)
@@ -1661,12 +1653,6 @@
     )
     (path "/53703496-4cc2-4323-8525-0f63e94d045b/b7fbaeae-6e1d-47a0-b99c-61e248accdfe"
       (reference "R31") (unit 1) (value "19.1") (footprint "Resistor_SMD:R_0402_1005Metric")
-    )
-    (path "/33d17ea3-a408-483c-9d51-34e840ff36fb/56f58402-6224-4f2e-a240-16b1052d8916"
-      (reference "R32") (unit 1) (value "0") (footprint "Resistor_SMD:R_0402_1005Metric")
-    )
-    (path "/33d17ea3-a408-483c-9d51-34e840ff36fb/2ce3b724-983d-4634-a0e4-3ca6ba3131eb"
-      (reference "R33") (unit 1) (value "0") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/cd9205e1-9dd8-4849-8d2c-a52a0d3ed8fe/054cda4b-a8ba-41b1-8ca3-c2e99d0199d8"
       (reference "R34") (unit 1) (value "680") (footprint "Resistor_SMD:R_0402_1005Metric")
